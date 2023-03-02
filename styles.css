@@ -1,1 +1,28 @@
 /* Write your CSS here! */
+/* p {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: auto;
+  } */
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 30px;
+  }
+
+h1 {
+    text-align:center;
+}
+body {
+    margin: 8px;
+    display: block;
+}
+#mainHeading {
+    color:red;
+}
+.funParagraph{
+    color:green;
+}
